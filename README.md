@@ -13,7 +13,7 @@ The Limex Trading Challenge in Summer 2025 was a 30-day simulated trading compet
 - Participants: Over 100 traders from diverse backgrounds (students, early professionals, and independent participants).
 - Evaluation: Performance was tracked on a live leaderboard, updated daily based on equity balance. Rankings factored in returns, consistency, and risk-adjusted performance (e.g., Sharpe ratio).
 - Requirements: Finalists were asked to submit a Trader’s Journal detailing their strategy, methodology, data sources, and lessons learned.
-The challenge provided practical experience in portfolio management, short-term trading strategy design, and performance reporting under competitive conditions.
+- The challenge provided practical experience in portfolio management, short-term trading strategy design, and performance reporting under competitive conditions.
 
 ---
 
