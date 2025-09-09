@@ -39,7 +39,6 @@ I used a fundamentals-first approach. The focus was on identifying companies wit
 ## 4. Backtesting, Optimization, and Validation
 Since this was a short 30-day challenge, I didn’t run full historical backtests. Instead, I:  
 - Looked at how my selected stocks had reacted to past earnings cycles.  
-- Ran simple allocation checks using Python (`fundamentals_check.py`) to validate the weighting choice.  
 - Confirmed that concentrating on HROW (with partial positions in HIMS and CARS) had historically been favorable in similar timeframes.  
 
 ---
